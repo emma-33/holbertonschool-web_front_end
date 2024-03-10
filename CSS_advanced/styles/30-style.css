@@ -440,7 +440,8 @@ a:active{
 
 .container{
    width: 960px;
-   margin: auto;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 :root{
@@ -590,7 +591,7 @@ ul.row{
 }
 
 .card-services .card-title{
-    margin: none;
+    margin: 0;
 }
 
 .card-services a{
@@ -707,7 +708,7 @@ ul.row{
     right: 0;
     left: 0;
     bottom: 0;
-    content: none;
+    content: "";
 }
 
 .card-work:hover .card-title{
