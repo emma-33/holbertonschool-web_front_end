@@ -1,0 +1,28 @@
+/*Setting body color, a color.
+Setting all elements with the class visually-hidden display.
+Setting all elements with the class card-category color.
+Setting all elements with the class section-tagline color.
+*/
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    color: #161616;
+}
+
+a{
+    color: #161616;
+}
+
+.visually-hidden{
+    display: none;
+}
+
+.card-category{
+    color: #D73953;
+}
+
+.section-tagline{
+    color: #D73953;
+}
